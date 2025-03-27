@@ -99,3 +99,8 @@ print(mult(2, 3))
 Se você executar o comando sem especificar um arquivo, ou seja: `ruff format`
 
 O Ruff irá formatar todos os arquivos Python no diretório atual, aplicando a formatação de maneira recursiva, caso existam subdiretórios.
+
+## Exemplos
+
+- [Vídeo formatação automática](https://drive.google.com/file/d/1l3fS7JN1FODqnwMPOis0iuJ3i-HrccmM/view?usp=sharing)
+- [Vídeo comando format](https://drive.google.com/file/d/1X0WCofaG8JRnVrKfSTTn_Pi5sWf-zxM7/view?usp=drive_link)
