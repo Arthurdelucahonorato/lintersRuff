@@ -38,6 +38,12 @@ print(soma(5, 10))
 print(mult(2, 3))
 ```
 
+# Como a ferramenta integra ao ambiente de desenvolvimento
+Para integrar ao VS Code, por exemplo, você pode instalar a extensão "Python" e configurar o RUFF como o linter, realizando as seguinte etapa
+No arquivo settings.json adicione:
+
+`"python.linting.ruffEnabled": true`
+
 # Tipos de estilos disponibilizados pelo RUFF
 PEP 257 
 
