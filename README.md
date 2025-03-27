@@ -37,3 +37,15 @@ def mult(a, b):
 print(soma(5, 10))
 print(mult(2, 3))
 ```
+
+# Tipos de estilos disponibilizados pelo RUFF
+PEP 257 
+
+Flake8 
+
+Pylint 
+
+# Regras de estilo
+1. E701 – Multiple statements on one line: Esta regra verifica se há múltiplas instruções em uma única linha e pode ser configurada para permitir ou desabilitar.
+2. E731 – Do not assign a lambda expression, use a def: Verifica se lambdas são atribuídas a variáveis e sugere a substituição por funções normais (def).
+3. F401 – Unused import: Verifica se existem imports que não estão sendo utilizados no código. Isso ajuda a evitar importações desnecessárias.
